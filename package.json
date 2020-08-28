@@ -1,0 +1,36 @@
+{
+  "name": "lbl-api-wrapper",
+  "version": "1.0.1",
+  "description": "API Wrapper for luna bot list!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoulHarsh007/lbl-api-wrapper.git"
+  },
+  "keywords": [
+    "luna",
+    "lunabotlist",
+    "botlist",
+    "api-wrapper"
+  ],
+  "dependencies": {
+    "@aero/centra": "1.0.6",
+    "discord.js": "^12.3.1"
+  },
+  "devDependencies": {
+    "eslint": "7.7.0",
+    "eslint-config-google": "0.14.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "prettier": "2.1.1"
+  },
+  "author": "SoulHarsh007",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoulHarsh007/lbl-api-wrapper/issues"
+  },
+  "homepage": "https://github.com/SoulHarsh007/lbl-api-wrapper#readme"
+}
