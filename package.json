@@ -1,6 +1,6 @@
 {
   "name": "lbl-api-wrapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "API Wrapper for luna bot list!",
   "main": "index.js",
   "scripts": {
