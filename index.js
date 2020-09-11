@@ -43,7 +43,7 @@ class LBL {
     };
     try {
       const response = await centra(
-        `https://lunabotlist.gq/api/${this.client.user.id}`,
+        `https://lunabotlist.dev/api/${this.client.user.id}`,
         'POST'
       )
         .header('Authorization', this.token)
@@ -71,7 +71,7 @@ class LBL {
     else stats.server_count = client.guilds.cache.size;
     try {
       const response = await centra(
-        `https://lunabotlist.gq/api/${client.user.id}`,
+        `https://lunabotlist.dev/api/${client.user.id}`,
         'POST'
       )
         .header('Authorization', this.token)
